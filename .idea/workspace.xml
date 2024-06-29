@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec5ecd39-435d-497d-b0e8-404db6be4a70" name="Changes" comment="method for initialising a population of candidate solutions" />
+    <list default="true" id="ec5ecd39-435d-497d-b0e8-404db6be4a70" name="Changes" comment="Crossover and selection operators added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DE.py" beforeDir="false" afterPath="$PROJECT_DIR$/DE.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,12 +130,30 @@
       <option name="project" value="LOCAL" />
       <updated>1719417523241</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Mutation methods added">
+      <option name="closed" value="true" />
+      <created>1719418658366</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719418658366</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Crossover and selection operators added">
+      <option name="closed" value="true" />
+      <created>1719480594447</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719480594447</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Github testing" />
     <MESSAGE value="method for initialising a population of candidate solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="method for initialising a population of candidate solutions" />
+    <MESSAGE value="Mutation methods added" />
+    <MESSAGE value="Crossover and selection operators added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Crossover and selection operators added" />
   </component>
 </project>
