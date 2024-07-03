@@ -11,7 +11,7 @@ def sphere(x):
 
 class DE:
     @staticmethod
-    def DE(iters, NP=30, bounds=[0, 100], F=0.5, cr=0.5,
+    def DE(iters, NP=20, bounds=[0, 100], F=0.9, cr=0.6,
            objFunc=[sphere],
            initialisation=init.initialise,
            mutator= Mutation.best_1,
